@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ywaz
 - 👀 I’m interested in User Interfaces building
 - 🌱 I’m currently learning Flutter/Dart
-- 💞️ I’m looking to collaborate on Mobile/web applications developement
+- 💞️ I’m looking to collaborate on Mobile/web applications development
 - 📫 How to reach me: youneselouazzani@hotmail.fr
 
 <!---
